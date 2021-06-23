@@ -46,7 +46,7 @@ My Familiar Tools & Languages
 ![](img/Azure.png) 
 ![](img/wordpress.png)
 ![](img/jira.png) 
-
+-----------------------------
 Portfolio
 * * * * *
 
