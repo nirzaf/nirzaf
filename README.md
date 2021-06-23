@@ -4,12 +4,12 @@ Full-Stack Senior Software Engineer \
 University](https://www.londonmet.ac.uk)) 
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
 </a>
 
 <a href="https://github.com/nirzaf/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
 
 -----
@@ -74,17 +74,10 @@ grass](img/cssMonsterDeployed.png)](https://codepen.io/jwuestef/full/PjqPgy/)
 A simple movable CSS monster
 
 [![Photo of Ninja Directory website
-deployed](img/ninjaDirectoryDeployed.png)](https://ninja-directory-41b5d.firebaseapp.com/)
-
 A simple Angular website to browse ninjas-for-hire
 
 [![Photo of Turtle Quiz website
 deployed](img/turtleQuizDeployed.png)](https://turtle-quiz.firebaseapp.com/)
-
-An Angular quiz website to learn about turtles
-
-[![Photo of Workout Log website
-deployed](img/workoutLogDeployed.png)](https://workoutlog-angular-client.herokuapp.com)
 
 An Angular website with a PostgreSQL database to log your physical
 training regimen
