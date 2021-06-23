@@ -62,7 +62,7 @@ Portfolio
 
 Technical blog site for content sharing regarding latest outstanding
 technologies
-(http://quadrate.unaux.com/)
+http://quadrate.unaux.com/
 
 [![Photo of purrrfect Match website
 deployed](img/purrrfectMatchDeployed.png)](http://purrrfect-match.herokuapp.com/)
@@ -126,12 +126,9 @@ here\
 [github](https://github.com/nirzaf) and
 [gitlab](https://gitlab.com/nirzaf)
 
-#### I am always reachable through WhatsApp {style="font-display:block;color:white"}
+#### I am always reachable through WhatsApp
 
-![](img\logos\whatsapp.png)
 [+94772049123](https://api.whatsapp.com/send?phone=+94772049123&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
-
-#### Or Drop me an e-mail to 
 
 #### [Email : fazrin@quadrate.lk](mailto:fazrin@quadrate.lk) 
 
