@@ -37,11 +37,11 @@ My Familiar Tools & Languages
 
 * * * * *
 
-![](img/Net_Core.png) /
-![](img/angularLogo.png) /
-![](img/firebaseLogo.png) /
-![](img/pic_logo.svg) /
-![](img/nodejsLogo.png) /
+![](img/Net_Core.png) 
+![](img/angularLogo.png) 
+![](img/firebaseLogo.png) 
+![](img/pic_logo.svg) 
+![](img/nodejsLogo.png) 
 ![](img/bootstrapLogo.png) 
 ![](img/javascriptLogo.png)
 ![](img/html5Logo.png) 
@@ -53,7 +53,6 @@ My Familiar Tools & Languages
 ![](img/Azure.png) 
 ![](img/wordpress.png)
 ![](img/jira.png) 
-![](img/favicon.ico)
 
 Portfolio
 =========
