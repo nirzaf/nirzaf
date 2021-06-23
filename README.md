@@ -62,7 +62,7 @@ Portfolio
 
 [![Technical blog site for content sharing regarding latest outstanding
 technologies by
-experts](img\portfolio\10-thumbnail.jpg)](http://quadrate.unaux.com/)
+experts](http://quadrate.unaux.com/)
 
 Technical blog site for content sharing regarding latest outstanding
 technologies by experts
