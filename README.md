@@ -5,17 +5,10 @@ Full-Stack Senior Software Engineer
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
 </a>
 
-![(https://github.com/nirzaf/github-readme-stats)] (https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight)
-
 <a href="https://github.com/nirzaf/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/nirzaf/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirzaf&repo=github-readme-stats&theme=material-palenight" />
-</a> 
 
 [![Photo of purrrfect Match website
 deployed](img/purrrfectMatchDeployed.png)](http://purrrfect-match.herokuapp.com/)
