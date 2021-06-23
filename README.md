@@ -1,6 +1,5 @@
 M.F.M Fazrin\
 Full-Stack Senior Software Engineer
-===========
 -----
 I am Fazrin. (B.E in Software Engineering @ [London Metropolitan
 University](https://www.londonmet.ac.uk)) \
@@ -31,8 +30,6 @@ Examine my [resume](https://nimb.ws/ZyIWei)
 
 My Familiar Tools & Languages
 -----------------------------
-
-* * * * *
 
 ![](img/Net_Core.png) 
 ![](img/angularLogo.png) 
