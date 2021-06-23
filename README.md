@@ -27,21 +27,8 @@ Examine my [resume](https://nimb.ws/ZyIWei)
 My Familiar Tools & Languages
 -----------------------------
 
-![](img/Net_Core.png) 
-![](img/angularLogo.png) 
-![](img/firebaseLogo.png) 
-![](img/pic_logo.svg) 
-![](img/nodejsLogo.png) 
-![](img/bootstrapLogo.png) 
-![](img/javascriptLogo.png)
-![](img/html5Logo.png) 
-![](img/typescript.png)
-![](img/githubLogo.png) 
-![](img/gitlab.png) 
-![](img/bitbucket.png)
-![](img/Azure.png) 
-![](img/wordpress.png)
-![](img/jira.png) 
+![](img/tools.png) 
+
 -----------------------------
 ### Live samples of my work
 
