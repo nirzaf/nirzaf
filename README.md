@@ -45,7 +45,6 @@ My Familiar Tools & Languages
 ![](img/bootstrapLogo.png) 
 ![](img/javascriptLogo.png)
 ![](img/html5Logo.png) 
-![](img/css3Logo.png) 
 ![](img/typescript.png)
 ![](img/githubLogo.png) 
 ![](img/gitlab.png) 
