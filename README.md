@@ -60,9 +60,9 @@ Portfolio
 
 ### Live samples of my work
 
-[![Technical blog site for content sharing regarding latest outstanding
+Technical blog site for content sharing regarding latest outstanding
 technologies by
-experts](http://quadrate.unaux.com/)
+experts(http://quadrate.unaux.com/)
 
 Technical blog site for content sharing regarding latest outstanding
 technologies by experts
