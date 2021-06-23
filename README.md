@@ -37,14 +37,11 @@ My Familiar Tools & Languages
 
 * * * * *
 
-![](img/Net_Core.png) !
-![](img/PHP_logo.png)
-![](img/angularLogo.png) 
-![](img/firebaseLogo.png) 
-![](img/pic_logo.svg)
-![](img/postgresLogo.png) 
-![](img/nodejsLogo.png) 
-![](img/jQueryLogo.png)
+![](img/Net_Core.png) /
+![](img/angularLogo.png) /
+![](img/firebaseLogo.png) /
+![](img/pic_logo.svg) /
+![](img/nodejsLogo.png) /
 ![](img/bootstrapLogo.png) 
 ![](img/javascriptLogo.png)
 ![](img/html5Logo.png) 
