@@ -15,7 +15,7 @@ Full-Stack Senior Software Engineer
 I am Fazrin. (B.E in Software Engineering @ [London Metropolitan
 University](https://www.londonmet.ac.uk)) \
 \
-Working as a Full-Stack Developer @[Quadrate Tech
+Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
 Solutions](https://quadrate.cc) in Developing Various Web & Desktop
 Applications, Previously I worked @ [Voigue](https://voigue.com) Private
 Limited as a .NET Developer mostly developed WPF application with .NET
@@ -23,19 +23,6 @@ Core backend, I worked @ [Virtusa](https://virtusa.com) Private Limited
 as an Associate Software Engineer & I used Angular and .NET Core to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
-
-* * * * *
-
-I worked as a Software Developer @[Nemico](#highlight3) Fashion Paradise
-(part of parent company [Nemico
-Holdings](https://www.linkedin.com/in/nemico-group-of-companies-105480129/?originalSubdomain=lk))
-for 3 Years After I left from Olayan @ KSA as a [backend](#highlight4)
-developer for 3 years, Since 2009, in my own startup [Quadrate Tech
-Solutions](https://quadrate.lk) I still playing the co-founder role,
-please check out my [career history](#highlightsSection) &
-[portfolio](#projectsSection) section for more details, I was
-configuring and troubleshooting computer hardware & networking issues
-since 2005. \
 \
 Examine my [resume](https://nimb.ws/ZyIWei)
 ----------------------------
