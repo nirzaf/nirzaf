@@ -1,34 +1,13 @@
-M.F.M\
-Fazrin\
-Full-Stack\
-Developer {#main-title}
+M.F.M Fazrin\
+Full-Stack Senior Software Engineer
 ===========
 
--   [**](#profileSection)
--   [**](#projectsSection)
--   [**](#highlightsSection)
--   [**](#contactSection)
-
-Profile
-=======
-
-* * * * *
-
-![Photo of M.F.M Fazrin](img/profilePhoto.png)
-
-Name: M.F.M Fazrin
-
-* * * * *
-
-Role: Full-Stack Developer
+-   [***************************]
 
 INTRO
 -----
 
 * * * * *
-
-\
-
 I am Fazrin. (B.E in Software Engineering @ [London Metropolitan
 University](https://www.londonmet.ac.uk)) \
 \
@@ -52,8 +31,7 @@ Solutions](https://quadrate.lk) I still playing the co-founder role,
 please check out my [career history](#highlightsSection) &
 [portfolio](#projectsSection) section for more details, I was
 configuring and troubleshooting computer hardware & networking issues
-since 2005. Please refer to the [section](#skills) to explore my
-familiar programming languages and tools that I have used\
+since 2005. \
 \
 Examine my [resume](https://nimb.ws/ZyIWei)
 
@@ -61,8 +39,6 @@ My Familiar Tools & Languages
 -----------------------------
 
 * * * * *
-
-\
 
 ![](img/Net_Core.png) ![](img/java-logo.png) ![](img/PHP_logo.png)
 ![](img/angularLogo.png) ![](img/firebaseLogo.png) ![](img/pic_logo.svg)
@@ -190,58 +166,6 @@ here\
  so please check out my complete list of projects in
 [github](https://github.com/nirzaf) and
 [gitlab](https://gitlab.com/nirzaf)
-
-Career History
-==============
-
-* * * * *
-
--   **
-
-    #### [Quadrate](https://quadrate.cc/) {.timeline-title}
-
-    July-2020 - Present
-
-    Full-Stack Developer
-
-    ![Sri Lankan based company which offers outsourcing solutions with
-    virtualized work forces](img/quadrate.png)
-
--   **
-
-    #### [Voigue](https://voigue.com) {.timeline-title}
-
-    Sept 2019 - Jun 2020
-
-    Software Developer
-
-    ![Sri Lankan based company which offers outsourcing solutions with
-    virtualized work forces](img/voigue.png)
-
--   **
-
-    #### [Virtusa](http://virtusa.com/) {.timeline-title}
-
-    Jan 2019 - Jan 2019
-
-    Associate Engineer
-
-    ![Virtusa Private Limited](img/1150Logo.png)
-
--   **
-
-    #### [Nemico Holdings](http://nemico.lk) {.timeline-title}
-
-    Jan 2016 - Dec 2018
-
-    Software Developer
-
-    ![Qudrate Tech Solutions](img/nemico.jpg)
-
-Contact
-=======
-
-* * * * *
 
 #### I am always reachable through WhatsApp {style="font-display:block;color:white"}
 
