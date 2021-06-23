@@ -37,15 +37,26 @@ My Familiar Tools & Languages
 
 * * * * *
 
-![](img/Net_Core.png) ![](img/java-logo.png) ![](img/PHP_logo.png)
-![](img/angularLogo.png) ![](img/firebaseLogo.png) ![](img/pic_logo.svg)
-![](img/postgresLogo.png) ![](img/mongodbLogo.png)
-![](img/nodejsLogo.png) ![](img/jQueryLogo.png)
-![](img/bootstrapLogo.png) ![](img/javascriptLogo.png)
-![](img/html5Logo.png) ![](img/css3Logo.png) ![](img/typescript.png)
-![](img/githubLogo.png) ![](img/gitlab.png) ![](img/bitbucket.png)
-![](img/Azure.png) ![](img/aws.png) ![](img/wordpress.png)
-![](img/jira.png) ![](img/favicon.ico)
+![](img/Net_Core.png) !
+![](img/PHP_logo.png)
+![](img/angularLogo.png) 
+![](img/firebaseLogo.png) 
+![](img/pic_logo.svg)
+![](img/postgresLogo.png) 
+![](img/nodejsLogo.png) 
+![](img/jQueryLogo.png)
+![](img/bootstrapLogo.png) 
+![](img/javascriptLogo.png)
+![](img/html5Logo.png) 
+![](img/css3Logo.png) 
+![](img/typescript.png)
+![](img/githubLogo.png) 
+![](img/gitlab.png) 
+![](img/bitbucket.png)
+![](img/Azure.png) 
+![](img/wordpress.png)
+![](img/jira.png) 
+![](img/favicon.ico)
 
 Portfolio
 =========
