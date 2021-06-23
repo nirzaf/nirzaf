@@ -134,12 +134,11 @@ here\
 ![](img\logos\whatsapp.png)
 [+94772049123](https://api.whatsapp.com/send?phone=+94772049123&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
 
-#### Or Drop me an e-mail to {.section-heading style="font-display:block;color:white"}
+#### Or Drop me an e-mail to 
 
-#### [Email : fazrin@quadrate.lk](mailto:fazrin@quadrate.lk) {.section-heading style="font-display:block"}
+#### [Email : fazrin@quadrate.lk](mailto:fazrin@quadrate.lk) 
 
-[**](https://github.com/nirzaf)
-[**](https://www.linkedin.com/in/mfmfazrin/)
+[Linkedin](https://www.linkedin.com/in/mfmfazrin/)
 
 Copyright © 2019 - [M.F.M Fazrin](https://nirzaf.github.io)
 
