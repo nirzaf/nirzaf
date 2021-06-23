@@ -134,7 +134,7 @@ here\
 
 [Linkedin](https://www.linkedin.com/in/mfmfazrin/)
 
-Copyright © 2019 - [M.F.M Fazrin](https://nirzaf.github.io)
+Copyright © 2021 - [M.F.M Fazrin](https://nirzaf.github.io)
 
 All trademarks and registered trademarks are the property of their
 respective owners.
