@@ -1,9 +1,6 @@
 M.F.M Fazrin\
 Full-Stack Senior Software Engineer
 ===========
-
--   [***************************]
-
 INTRO
 -----
 
@@ -56,30 +53,6 @@ Portfolio
 * * * * *
 
 ### Live samples of my work
-
-![Invoice and Certificate Printing for Premadasa Á Co Jewellers (Pvt)
-Ltd](img\portfolio\01-thumbnail.jpg)
-
-Invoice and Certificate Printing for Premadasa Á Co Jewellers (Pvt) Ltd
-
-![](img\portfolio\04-thumbnail.jpg)
-
-Pharmacy Management System Web Solution for Pharmacy Management
-
-[![Website with live chatting features for Heaven Lanka
-Tours](img\portfolio\05-thumbnail.jpg)](https://www.heavenlankatours.net)
-
-Website with live chatting features for Heaven Lanka Tours
-
-[![Complete Point Of Sale
-Solution](img\portfolio\08-thumbnail.jpg)](https://qtsdeals.com/pricing)
-
-Complete Point Of Sale with ERP Solution
-
-[![Online food ordering system for Avon
-Bakers](img\portfolio\09-thumbnail.jpg)](https://avonbakersandrestaurant.com/)
-
-Online food ordering system for Avon Bakers
 
 [![Technical blog site for content sharing regarding latest outstanding
 technologies by
