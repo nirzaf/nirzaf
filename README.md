@@ -1,6 +1,7 @@
 M.F.M Fazrin\
-Full-Stack Senior Software Engineer (B.E in Software Engineering @ [London Metropolitan
-University](https://www.londonmet.ac.uk)) \
+Full-Stack Senior Software Engineer \
+(B.E in Software Engineering @ [London Metropolitan
+University](https://www.londonmet.ac.uk)) 
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
