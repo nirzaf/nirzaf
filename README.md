@@ -123,23 +123,6 @@ training regimen
 [![Photo of MERN Bucket List website
 deployed](img/bucketListDeployed.png)](https://bucketlist-client-jw.herokuapp.com/)
 
-A MERN stack website to create a bucket list by referencing YouTube
-videos
-
-[![Photo of Simple Text website
-deployed](img/simpleTextDeployed.png)](https://simple-text.herokuapp.com/)
-
-A MEAN stack website for computer-phone text messaging
-
-[![Website for Aichi Union Vehicle Importers to showcase imported
-vehicles](img\portfolio\11-thumbnail.jpg)](http://aichiunion.net/)
-
-Website for Aichi Union Vehicle Importers to showcase imported vehicles
-
-![Web based smart accounting system](img\portfolio\07-thumbnail.jpg)
-
-Web based smart accounting system
-
 My long journey accumulated lots of projects which cannot be listed all
 here\
  so please check out my complete list of projects in
