@@ -47,9 +47,6 @@ My Familiar Tools & Languages
 ![](img/wordpress.png)
 ![](img/jira.png) 
 -----------------------------
-Portfolio
-* * * * *
-
 ### Live samples of my work
 
 Technical blog site for content sharing regarding latest outstanding
