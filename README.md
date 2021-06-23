@@ -1,7 +1,6 @@
 M.F.M Fazrin\
 Full-Stack Senior Software Engineer
 ===========
-INTRO
 -----
 
 * * * * *
