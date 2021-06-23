@@ -17,10 +17,7 @@ University](https://www.londonmet.ac.uk)) \
 \
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
 Solutions](https://quadrate.cc) in Developing Various Web & Desktop
-Applications, Previously I worked @ [Voigue](https://voigue.com) Private
-Limited as a .NET Developer mostly developed WPF application with .NET
-Core backend, I worked @ [Virtusa](https://virtusa.com) Private Limited
-as an Associate Software Engineer & I used Angular and .NET Core to
+Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
 \
