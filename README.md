@@ -48,8 +48,6 @@ My Familiar Tools & Languages
 ![](img/jira.png) 
 
 Portfolio
-=========
-
 * * * * *
 
 ### Live samples of my work
