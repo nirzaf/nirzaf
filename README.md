@@ -61,11 +61,8 @@ Portfolio
 ### Live samples of my work
 
 Technical blog site for content sharing regarding latest outstanding
-technologies by
-experts(http://quadrate.unaux.com/)
-
-Technical blog site for content sharing regarding latest outstanding
-technologies by experts
+technologies
+(http://quadrate.unaux.com/)
 
 [![Photo of purrrfect Match website
 deployed](img/purrrfectMatchDeployed.png)](http://purrrfect-match.herokuapp.com/)
