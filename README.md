@@ -10,9 +10,6 @@ Full-Stack Senior Software Engineer
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
 
-[![Photo of purrrfect Match website
-deployed](img/purrrfectMatchDeployed.png)](http://purrrfect-match.herokuapp.com/)
-
 -----
 
 I am Fazrin. (B.E in Software Engineering @ [London Metropolitan
