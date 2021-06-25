@@ -36,12 +36,6 @@ Technical blog site for content sharing regarding latest outstanding
 technologies
 http://quadrate.unaux.com/
 
-[![Photo of purrrfect Match website
-deployed](img/purrrfectMatchDeployed.png)](http://purrrfect-match.herokuapp.com/)
-
-A cat adoption website created with NodeJS, Express, Passport, and
-MongoDB
-
 [![Photo of Patatap Clone website
 deployed](img/patatapCloneDeployed.png)](https://patatap-clone.firebaseapp.com/)
 
