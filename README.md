@@ -11,16 +11,15 @@ University](https://www.londonmet.ac.uk))
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
-### Spotify Playing 🎧
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
------
-\
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="100%" />
+
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
 Solutions](https://quadrate.cc) in Developing Various Web & Desktop
 Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
-\
+
 Examine my [resume](https://nimb.ws/ZyIWei)
 ----------------------------
 
