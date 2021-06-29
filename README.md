@@ -11,7 +11,7 @@ University](https://www.londonmet.ac.uk))
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
-### Spotify Playing 🎧
+### Listening Now 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)
 -----
 \
