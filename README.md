@@ -12,7 +12,7 @@ University](https://www.londonmet.ac.uk))
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=material-palenight" />
 </a>
 ### Listening Now 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)]
 -----
 \
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
