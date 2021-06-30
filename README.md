@@ -1,5 +1,5 @@
 M.F.M Fazrin\
-Full-Stack Senior Software Engineer \
+Senior Full-Stack Software Engineer \
 B.E in Software Engineering @ [London Metropolitan
 University](https://www.londonmet.ac.uk) 
 -----
