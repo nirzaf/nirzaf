@@ -30,55 +30,6 @@ My Familiar Tools & Languages
 ![](img/tools.png) 
 
 -----------------------------
-### Live samples of my work
-
-Technical blog site for content sharing regarding latest outstanding
-technologies
-http://quadrate.unaux.com/
-
-[![Photo of Patatap Clone website
-deployed](img/patatapCloneDeployed.png)](https://patatap-clone.firebaseapp.com/)
-
-A website similar to Patatap, using HowlerJS
-
-[![Photo of RGB Guessing Game website
-deployed](img/rgbGuessingGameDeployed.png)](https://rgb-guessing-game.firebaseapp.com/)
-
-A simple DOM manipulation puzzle game where users try to match RGB
-colors
-
-[![Photo of Show Local Weather website
-deployed](img/showLocalWeatherDeployed.png)](http://show-local-weather-jw.herokuapp.com/)
-
-Using jQuery and AJAX GET requests, weather data is shown to the user
-
-[![Photo of Todo List website
-deployed](img/todoListDeployed.png)](http://todo-list-jw.herokuapp.com/)
-
-A simple To-Do list using jQuery and AJAX requests
-
-[![Photo of Omnifood website
-deployed](img/omnifoodDeployed.png)](https://omnifood-e8df5.firebaseapp.com/)
-
-A responsive HTML & CSS website
-
-[![Photo of a CSS snake in the
-grass](img/cssMonsterDeployed.png)](https://codepen.io/jwuestef/full/PjqPgy/)
-
-A simple movable CSS monster
-
-[![Photo of Ninja Directory website
-A simple Angular website to browse ninjas-for-hire
-
-[![Photo of Turtle Quiz website
-deployed](img/turtleQuizDeployed.png)](https://turtle-quiz.firebaseapp.com/)
-
-An Angular website with a PostgreSQL database to log your physical
-training regimen
-
-[![Photo of MERN Bucket List website
-deployed](img/bucketListDeployed.png)](https://bucketlist-client-jw.herokuapp.com/)
-
 My long journey accumulated lots of projects which cannot be listed all
 here\
  so please check out my complete list of projects in
