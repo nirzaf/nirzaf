@@ -39,7 +39,7 @@ here\
 
 [+94772049123](https://api.whatsapp.com/send?phone=+94772049123&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
 
-#### [Email : fazrin@quadrate.lk](mailto:fazrin@quadrate.lk) 
+#### [Email : mfmfazrin1986@gmail.com](mailto:mfmfazrin1986@gmail.com) 
 
 [Linkedin](https://www.linkedin.com/in/mfmfazrin/)
 
