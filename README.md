@@ -1,6 +1,6 @@
 M.F.M Fazrin\
 Senior Full-Stack Software Engineer \
-MSc in Software Engineering @ [Kingston University - Reading](https://www.kingston.ac.uk/) 
+MSc in Software Engineering @ [Kingston University - <Reading>](https://www.kingston.ac.uk/) 
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
