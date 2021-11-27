@@ -32,7 +32,7 @@ My Familiar Tools & Languages
 My long journey accumulated lots of projects which cannot be listed all
 here\
  so please check out my complete list of projects in
-[github](https://github.com/nirzaf) and
+[github](https://github.com/nirzaf?tab=repositories) and
 [gitlab](https://gitlab.com/nirzaf)
 
 #### I am always reachable through WhatsApp
