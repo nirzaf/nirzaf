@@ -19,7 +19,7 @@ Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
 
-Examine my [resume](https://nimb.ws/ZyIWei)
+Examine my [resume](https://onedrive.live.com/embed?resid=E6D43771AF11C105%2122804&authkey=%21AGMFWY_zWE80LBc&em=2)
 ----------------------------
 
 
