@@ -26,10 +26,6 @@ passionate about making the end-user experience as seamless as possible.
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" style="vertical-align:top; margin:4px">
-  </a>
-  
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   </a>
@@ -49,27 +45,19 @@ passionate about making the end-user experience as seamless as possible.
 </p>
 
 ---
-### 📢 Find me elsewhere:
+### 📢 Find me on:
 
 <p>
-   <a href="https://youtube.com/techmindfactory">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/youtube.svg" alt="YouTube" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://linkedin.com/in/daniel-krzyczkowski">
+  <a href="https://www.linkedin.com/in/mfmfazrin/">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://stackoverflow.com/users/4074421/daniel-krzyczkowski">
+  <a href="https://stackoverflow.com/users/9251463/mohamed-farook-mohamed-fazrin">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://daniel-krzyczkowski.github.io/">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/medium.svg" alt="Tech Mind Factory Blog" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="http://twitter.com/dkrzyczkowski">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  <a href="https://dotnetevangelist.net/">
+    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/medium.svg" alt="Dot net evangelist Blog" style="vertical-align:top; margin:4px">
   </a>
   
 </p>
