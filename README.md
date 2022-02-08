@@ -27,7 +27,7 @@ passionate about making the end-user experience as seamless as possible.
   </a>
 
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://visualstudio.microsoft.com/">
