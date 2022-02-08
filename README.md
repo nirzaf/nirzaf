@@ -1,5 +1,4 @@
-M.F.M Fazrin 
-#### Married to .NET but great crush on Python
+M.F.M Fazrin\
 Senior Full-Stack Software Engineer \
 MSc in Software Engineering @ [Kingston University - {Reading}](https://www.kingston.ac.uk/) 
 -----
@@ -20,7 +19,7 @@ Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
 
-### 🚧 I build with:
+### 🚧 I build using:
 
 <p>
    <a href="https://azure.microsoft.com/en-gb/">
