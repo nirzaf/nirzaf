@@ -61,8 +61,6 @@ passionate about making the end-user experience as seamless as possible.
   </a>
   
 </p>
-
-Examine my [resume](https://onedrive.live.com/embed?resid=E6D43771AF11C105%2122804&authkey=%21AGMFWY_zWE80LBc&em=2)
 ----------------------------
 
 
