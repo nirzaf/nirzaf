@@ -68,6 +68,7 @@ My Familiar Tools & Languages
 -----------------------------
 
 ![](img/tools.png) 
+![](img/dotnet.png)
 
 -----------------------------
 My long journey accumulated lots of projects which cannot be listed all
