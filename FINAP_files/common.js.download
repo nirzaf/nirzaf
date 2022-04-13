@@ -1,0 +1,85 @@
+(function () {
+
+   
+    /* technology animation */
+
+    var newCircleAnimation = anime({
+        targets: '.svg-wrapper .svg-new-circle ',
+        strokeDashoffset: [anime.setDashoffset, 0],
+        easing: 'easeInOutSine',
+        delay: function(el, i, l) {
+            return i * 200;
+        },
+        duration: 1000,
+        loop: 1,
+        autoplay: false,
+        complete: function() {
+            anime({
+                targets: '.stack.new',
+                opacity: [0, 1],
+                easing: 'easeInOutSine',
+                duration: 500,
+                delay: function(el, i, l) {
+                    return i * 200;
+                },
+                loop: 1
+            });
+        }
+    });
+
+    $(window).scroll(function() {
+        var bottom_of_window = $(window).scrollTop() + $(window).height();
+        var top_of_window = $(window).scrollTop();
+        var $elm = $('.svg-wrapper');
+        if ($elm.offset() !== undefined) {
+            var bottom_of_elm = $elm.offset().top + $elm.height();
+
+            if (bottom_of_window > bottom_of_elm && top_of_window < bottom_of_elm) {
+                if (!$elm.hasClass('in-viewport')) {
+                    $elm.addClass('in-viewport');
+                    newCircleAnimation.play();
+                }
+            } else {
+                $elm.removeClass('in-viewport');
+            }
+        }
+    });
+
+    var circleAnimation = anime({
+        targets: '.svg-wrapper .svg-circle ',
+        strokeDashoffset: [anime.setDashoffset, 0],
+        easing: 'easeInOutSine',
+        duration: 1500,
+        loop: 1,
+        autoplay: false,
+        complete: function() {
+            anime({
+                targets: '.svg-circle',
+                opacity: [1, 0],
+                easing: 'easeInOutSine',
+                duration: 500,
+                loop: 1,
+                complete: function() {
+                    anime({
+                        targets: '.logo-block img',
+                        scale: [1, 1.1],
+                        duration: 2000,
+                        direction: 'alternate',
+                        loop: true
+                    });
+                }
+            });
+        }
+    });
+
+     
+
+     
+
+ 
+
+ 
+
+     
+    
+})()

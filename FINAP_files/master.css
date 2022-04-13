@@ -1,0 +1,42 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:
+Version:  1.0
+Assigned to:  WebNik
+Primary use:
+-------------------------------------------------------------------*/
+
+
+/* FONTS*/
+@import 'https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i';
+@import '../fonts/font-awesome-4.6.3/css/font-awesome.min.css';
+@import '../fonts/stroke/style.css';
+@import '../fonts/elegant/style.css';
+@import '../fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css';
+@import '../fonts/flaticon/flaticon.css';
+
+
+/* PLUGIN CSS */
+
+@import '../libs/bootstrap/bootstrap.css';                /* bootstrap */
+@import '../plugins/bootstrap-select/css/bootstrap-select.css';   /* select customization */
+@import '../plugins/headers/header.css';                /* header */
+@import '../plugins/headers/yamm.css';                /* header */
+@import '../plugins/slider-pro/slider-pro.css';         /* main slider */
+@import '../plugins/owl-carousel/owl.theme.css';                 /* other sliders */
+@import '../plugins/magnific-popup/magnific-popup.css';            /* modal */
+@import '../plugins/animate/animate.css';                        /* animations */
+@import '../plugins/revealer/css/revealer.css';                        /* animations */
+@import '../plugins/parallax/parallax.css';                        /* parallax */
+@import '../plugins/flowplayer/skin/playful.css';          /* video-player */
+
+
+
+
+
+/* MAIN CSS */
+
+@import 'theme.css';
+@import 'color.css';
+@import 'responsive.css';
