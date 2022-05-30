@@ -3,12 +3,12 @@ Senior Full-Stack Software Engineer \
 MSc in Software Engineering @ [Kingston University - {Reading}](https://www.kingston.ac.uk/) 
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fazrin's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Fazrin's github stats" />
 </a>
 
 <a href="https://github.com/nirzaf/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight&show_icons=true" />
 </a>
 
 <!-- <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="75%" /> -->
