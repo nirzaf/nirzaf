@@ -8,7 +8,7 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
 
 <a href="https://github.com/nirzaf/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true" />
 </a>
 
 <!-- <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="75%" /> -->
