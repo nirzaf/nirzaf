@@ -8,7 +8,7 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
 
 <a href="https://github.com/nirzaf/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight"/>
 </a>
 
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
