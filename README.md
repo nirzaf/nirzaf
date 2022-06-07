@@ -3,7 +3,7 @@ Senior Full-Stack Software Engineer \
 MSc in Software Engineering @ [Kingston University - {Reading}](https://www.kingston.ac.uk/) 
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&include_all_commits=true&count_private=true" alt="Fazrin's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&count_private=true" alt="Fazrin's github stats" />
 </a>
 
 <a href="https://github.com/nirzaf/github-readme-stats">
