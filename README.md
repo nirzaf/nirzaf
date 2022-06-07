@@ -11,8 +11,6 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight/>
 </a>
 
-<!-- <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="75%" /> -->
-
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
 Solutions](https://quadrate.cc) in Developing Various Web & Desktop
 Applications, I use Angular and .NET to
