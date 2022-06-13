@@ -11,7 +11,7 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight"/>
 </a>
 
-[![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/global.svg)](https://stardev.io/developers/nirzaf)
+[![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
 Solutions](https://quadrate.lk) in Developing Various Web & Desktop
