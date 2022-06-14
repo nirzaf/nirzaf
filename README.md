@@ -2,8 +2,6 @@ M.F.M Fazrin\
 Senior Full-Stack Software Engineer \
 MSc in Software Engineering @ [Kingston University - {Reading}](https://www.kingston.ac.uk/) 
 -----
-[![Fazrin's github trophy](https://github-profile-trophy.vercel.app/?username=nirzaf&row=1)](https://github.com/nirzaf/github-profile-trophy)
-
 <a href="https://github.com/nirzaf/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&count_private=true" alt="Fazrin's github stats" />
 </a>
@@ -68,7 +66,7 @@ My Familiar Tools & Languages
 -----------------------------
 
 ![](img/tools.png) 
-
+[![Fazrin's github trophy](https://github-profile-trophy.vercel.app/?username=nirzaf&row=1)](https://github.com/nirzaf/github-profile-trophy)
 -----------------------------
 My long journey accumulated lots of projects which cannot be listed all
 here\
