@@ -6,11 +6,6 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
   <img src="https://github-readme-stats.vercel.app/api?username=nirzaf&show_icons=true&count_private=true" alt="Fazrin's github stats" />
 </a>
 
-<a href="https://github.com/nirzaf/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&count_private=true&layout=compact&theme=material-palenight"/>
-</a>
-
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
 Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
