@@ -8,8 +8,7 @@ MSc in Software Engineering @ [Kingston University - {Reading}](https://www.king
 
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
-Working as a Full-Stack Senior Software Engineer @[Quadrate Tech
-Solutions](https://quadrate.lk) in Developing Various Web & Desktop
+Working as a Senior Software Engineer in Developing Various Web & Desktop
 Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
