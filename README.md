@@ -1,4 +1,4 @@
-M.F.M Fazrin\
+[M.F.M Fazrin](https://nizraf.github.io)\
 Senior Full-Stack Software Engineer \
 MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 -----
