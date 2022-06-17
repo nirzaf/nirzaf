@@ -1,5 +1,5 @@
 [M.F.M Fazrin](https://nizraf.github.io)\
-Senior Full-Stack Software Engineer \
+Senior Software Engineer \
 MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 -----
 <a href="https://github.com/nirzaf/github-readme-stats">
