@@ -60,7 +60,6 @@ My Familiar Tools & Languages
 -----------------------------
 
 ![](img/tools.png) 
-[![Fazrin's github trophy](https://github-profile-trophy.vercel.app/?username=nirzaf&row=1)](https://github.com/nirzaf/github-profile-trophy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&langs_count=10&show_icons=true&theme=radical">
 -----------------------------
 My long journey accumulated lots of projects which cannot be listed all
