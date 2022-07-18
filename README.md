@@ -1,8 +1,3 @@
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@1.0.1/codersrank-summary.min.js"></script>
-
-<codersrank-summary username="mfmfazrin1986@gmail.com"></codersrank-summary>
-
 [M.F.M Fazrin](https://nizraf.github.io)\
 Senior Software Engineer \
 MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
