@@ -1,4 +1,4 @@
-[CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=nirzaf)
+![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=nirzaf)
 
 [M.F.M Fazrin](https://nizraf.github.io)\
 Senior Software Engineer \
