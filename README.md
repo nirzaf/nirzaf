@@ -2,7 +2,7 @@
 Senior Software Engineer \
 MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 -----
-[![Fazrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirzaf)](https://github.com/anuraghazra/github-readme-stats)
+[![Fazrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirzaf)](https://github.com/nirzaf/github-readme-stats)
 
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
