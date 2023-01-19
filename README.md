@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
+<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
 ### [M.F.M Fazrin](https://nizraf.github.io)
 #### MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
