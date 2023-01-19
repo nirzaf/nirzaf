@@ -32,8 +32,20 @@ passionate about making the end-user experience as seamless as possible.
   <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/security.svg" alt="Microsoft Identity Platform" style="vertical-align:top; margin:4px">
   </a>
-  
 </p>
+
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
+
+![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
 
 ---
 ### 📢 Find me on:
