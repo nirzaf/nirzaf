@@ -44,7 +44,6 @@ passionate about making the end-user experience as seamless as possible.
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
 
-![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859)
 ![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
 
 ---
