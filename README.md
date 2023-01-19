@@ -67,7 +67,7 @@ passionate about making the end-user experience as seamless as possible.
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://dotnetevangelist.net/">
+  <a href="https://mfmfazrin.medium.com/">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/medium.svg" alt="Dot net evangelist Blog" style="vertical-align:top; margin:4px">
   </a>
 </p>
