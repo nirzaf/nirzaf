@@ -6,8 +6,6 @@ MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Azure+Solutions+Architect+Expert" alt="solutionsarchitect" /> </p>
-
 Working as a Senior Software Engineer in Developing Various Web & Desktop
 Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
