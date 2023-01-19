@@ -72,14 +72,7 @@ passionate about making the end-user experience as seamless as possible.
   <a href="https://dotnetevangelist.net/">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/medium.svg" alt="Dot net evangelist Blog" style="vertical-align:top; margin:4px">
   </a>
-  
 </p>
-----------------------------
-My Familiar Tools & Languages
------------------------------
-
-![](img/tools.png) 
------------------------------
 
 My long journey accumulated lots of projects which cannot be listed all
 here\
