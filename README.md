@@ -1,10 +1,10 @@
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
+
 [M.F.M Fazrin](https://nizraf.github.io)\
 Senior Software Engineer \
 MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 -----
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
 Working as a Senior Software Engineer in Developing Various Web & Desktop
 Applications, I use Angular and .NET to
