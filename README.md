@@ -12,39 +12,50 @@ passionate about making the end-user experience as seamless as possible.
 
 ### 🚧 I build using:
 
-<p>
-   <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/web.svg" alt="ASP .NET Core" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/">
-    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/security.svg" alt="Microsoft Identity Platform" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=b12993)
+![](https://img.shields.io/badge/IDE-Jetbrains%20Rider%20-informational?style=for-the-badge&logo=rider&logoColor=white&color=b12993)
+![](https://img.shields.io/badge/IDE-Jetbrains%20WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=b12993)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=a63648)
 
 ![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-XML-informational?style=for-the-badge&logo=xml&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=red)
 
-![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
+
+![](https://img.shields.io/badge/Tool-Azure%20Functions-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Azure%20DevOps-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Azure%20Pipelines-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Azure%20Data%20Lake-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Postman-information?style=for-the-badge&logo=postman&logoColor=white&color=color=00b859)
+![](https://img.shields.io/badge/Tool-Insomnia-information?style=for-the-badge&logo=insomnia&logoColor=white&color=color=00b859)
+![](https://img.shields.io/badge/Tool-Resharper-informational?style=for-the-badge&logo=resharper&logoColor=white&color=color=00b859)
+
+
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=skyblue)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=skyblue)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=skyblue)
+
+
+![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Database-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Database-CosmosDB-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=violet)
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=white)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=aqua)
 
 ---
 ### 📢 Find me on:
