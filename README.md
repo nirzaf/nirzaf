@@ -1,7 +1,6 @@
-<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
-
 ### [M.F.M Fazrin](https://nizraf.github.io)
 #### MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
+<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 -----
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
