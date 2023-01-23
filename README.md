@@ -9,7 +9,7 @@ Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
 
-### 🚧 <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> 
+<p> 🚧 <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p> 
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=0c1000)
 ![](https://img.shields.io/badge/IDE-Jetbrains%20Rider%20-informational?style=for-the-badge&logo=rider&logoColor=white&color=0c1000)
