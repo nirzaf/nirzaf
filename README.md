@@ -81,13 +81,13 @@ here\
 
 #### I am always reachable through WhatsApp
 
-[+94772049123](https://api.whatsapp.com/send?phone=+94772049123&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
+[+97433253203](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
 
-#### [Email : mfmfazrin1986@gmail.com](mailto:mfmfazrin1986@gmail.com) 
+#### [Email : info@dotnetevangelist.net](mailto:info@dotnetevangelist.net) 
 
 [Linkedin](https://www.linkedin.com/in/mfmfazrin/)
 
-Copyright © 2022 - [M.F.M Fazrin](https://nirzaf.github.io)
+Copyright © 2023 - [M.F.M Fazrin](https://nirzaf.github.io)
 
 All trademarks and registered trademarks are the property of their
 respective owners.
