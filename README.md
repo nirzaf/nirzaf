@@ -12,7 +12,7 @@ passionate about making the end-user experience as seamless as possible.
 <details open>
   <summary><strong>🖱️ Toggle Collapse/Expand</strong></summary>
   <picture>
-    <img src="https://raw.githubusercontent.com/nirzaf/nirzaf/master/img/2023-09-14_19-21-20.png" alt="Metrics">
+    <img src="img/2023-09-14_19-21-20.png" alt="Metrics">
   </picture>
 </details> 
 
