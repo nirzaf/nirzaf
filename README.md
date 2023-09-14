@@ -9,12 +9,8 @@ Applications, I use Angular and .NET to
 construct well-built high concurrent web applications, and I am
 passionate about making the end-user experience as seamless as possible.
 
-<details open>
-  <summary><strong>🖱️ Toggle Collapse/Expand</strong></summary>
-  <picture>
-    <img src="img/2023-09-14_19-21-20.png" alt="Metrics">
-  </picture>
-</details> 
+
+![Achievements](img/2023-09-14_19-21-20.png) 
 
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
