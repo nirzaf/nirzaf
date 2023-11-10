@@ -69,7 +69,7 @@ My long journey accumulated lots of projects which cannot be listed all
 here\
  so please check out my complete list of projects in
 
-[![github](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_30/v1699644626/z4ezsbknpycek0m36n9g.png)](https://github.com/nirzaf) and  [![gitlab](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_30/v1699644484/gitlab_thchae.png)](https://gitlab.com/nirzaf)
+[![github](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644626/z4ezsbknpycek0m36n9g.png)](https://github.com/nirzaf?tab=repositories) and  [![gitlab](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644484/gitlab_thchae.png)](https://gitlab.com/users/nirzaf/projects)
 
 
 #### I am always reachable through 
