@@ -4,10 +4,7 @@
 
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
-Working as a Senior Software Engineer in Developing Various Web & Desktop
-Applications, I use Angular and .NET to
-construct well-built high concurrent web applications, and I am
-passionate about making the end-user experience as seamless as possible.
+As a Software engineer with expertise in .NET and C# more than 14 years, I have a proven track record of developing robust and scalable web and desktop applications. With a deep understanding of the .NET framework, I am able to leverage its powerful features to create high-performance applications that meet the needs of my clients. My experience with C# allows me to write clean, efficient, and maintainable code that is easy to understand and modify. Whether working on a large-scale enterprise application or a small-scale project, I am committed to delivering high-quality software that exceeds expectations. 
 
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
