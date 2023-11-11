@@ -4,7 +4,21 @@
 
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
-As a Software engineer with expertise in .NET and C# more than 14 years, I have a proven track record of developing robust and scalable web and desktop applications. With a deep understanding of the .NET framework, I am able to leverage its powerful features to create high-performance applications that meet the needs of my clients. My experience with C# allows me to write clean, efficient, and maintainable code that is easy to understand and modify. Whether working on a large-scale enterprise application or a small-scale project, I am committed to delivering high-quality software that exceeds expectations. 
+## Software Engineer (.NET/C#)
+
+I am a software engineer with more than 14 years of expertise in .NET and C#. I have a proven track record of developing robust and scalable web and desktop applications for various domains and industries. 
+
+### Skills and Qualifications
+- Deep understanding of the .NET framework and its powerful features, such as LINQ, Entity Framework, ASP.NET MVC, WPF, Blazor, REST APIs, WebSockets and more.
+- Proficient in C#, with the ability to write clean, efficient, and maintainable code that follows best practices and standards.
+- Experienced in using various tools and technologies, such as Jetbrains Rider, Visual Studio, SQL Server, Git, Azure DevOps, etc.
+- Familiar with agile methodologies, such as Scrum and Kanban, and able to work effectively in a team environment.
+- Excellent communication and problem-solving skills, with a strong attention to detail and quality.
+
+### Projects and Achievements
+- Developed a web application for a leading e-commerce company, using ASP.NET MVC, Entity Framework, and Azure. The application handled millions of transactions per day, with high availability and security. Implemented features such as shopping cart, payment gateway, order management, etc.
+
+- Contributed to an open-source projects using C# and .NET Core. 
 
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
