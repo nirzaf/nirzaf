@@ -59,25 +59,17 @@ passionate about making the end-user experience as seamless as possible.
 ---
 ### 📢 Find me on:
 
-[![LinkedIn](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643774/linkedin_myduif.svg)](https://www.linkedin.com/in/mfmfazrin/)
-
-[![StackOverflow](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643843/stackoverflow_wobsuu.svg)](https://stackoverflow.com/users/9251463/mohamed-farook-mohamed-fazrin)
-
-[![Dot net evangelist Blog](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643894/medium_g9m95p.svg)](https://mfmfazrin.medium.com/)
+[![LinkedIn](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643774/linkedin_myduif.svg)](https://www.linkedin.com/in/mfmfazrin/) &nbsp;&nbsp;&nbsp;&nbsp; [![StackOverflow](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643843/stackoverflow_wobsuu.svg)](https://stackoverflow.com/users/9251463/mohamed-farook-mohamed-fazrin) &nbsp;&nbsp;&nbsp;&nbsp; [![Dot net evangelist Blog](https://res.cloudinary.com/dcx7eongu/image/upload/v1699643894/medium_g9m95p.svg)](https://mfmfazrin.medium.com/)
 
 My long journey accumulated lots of projects which cannot be listed all
 here\
  so please check out my complete list of projects in
 
-[![github](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644626/z4ezsbknpycek0m36n9g.png)](https://github.com/nirzaf?tab=repositories) and  [![gitlab](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644484/gitlab_thchae.png)](https://gitlab.com/users/nirzaf/projects)
+[![github](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644626/z4ezsbknpycek0m36n9g.png)](https://github.com/nirzaf?tab=repositories) <span style="font-size: 20px;">and</span> [![gitlab](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644484/gitlab_thchae.png)](https://gitlab.com/users/nirzaf/projects)
 
 
 #### I am always reachable through 
-[![WhastApp](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699644931/whatsapp_x6icsj.png)](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
-
-[![Mobile](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699646020/telephone-call_ui2kxl.png)](tel:+97433253203) 
-
-#### [![Email](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699645889/email_1_orwg5e.png)](mailto:info@dotnetevangelist.net) 
+[![WhastApp](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699644931/whatsapp_x6icsj.png)](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) &nbsp;&nbsp;&nbsp;&nbsp; [![Mobile](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699646020/telephone-call_ui2kxl.png)](tel:+97433253203) &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699645889/email_1_orwg5e.png)](mailto:info@dotnetevangelist.net)
 
 Copyright © 2023 - [M.F.M Fazrin](https://nirzaf.github.io)
 
