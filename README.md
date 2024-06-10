@@ -4,6 +4,8 @@
 
 [![Check out nirzaf's profile on stardev.io](https://stardev.io/developers/nirzaf/badge/languages/country.svg)](https://stardev.io/developers/nirzaf)
 
+[![Fazrin's Github Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=default&show_icons=true)](https://github.com/nirzaf)
+
 ## Software Engineer (.NET/C#)
 
 I am a software engineer with more than 14 years of expertise in .NET and C#. I have a proven track record of developing robust and scalable web and desktop applications for various domains and industries. 
