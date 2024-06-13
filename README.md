@@ -84,7 +84,7 @@ here\
 #### I am always reachable through 
 [![WhastApp](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699644931/whatsapp_x6icsj.png)](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) &nbsp;&nbsp;&nbsp;&nbsp; [![Mobile](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699646020/telephone-call_ui2kxl.png)](tel:+97433253203) &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699645889/email_1_orwg5e.png)](mailto:info@dotnetevangelist.net)
 
-Copyright © 2023 - [M.F.M Fazrin](https://nirzaf.github.io)
+Copyright © 2024 - [M.F.M Fazrin](https://nirzaf.github.io)
 
 All trademarks and registered trademarks are the property of their
 respective owners.
