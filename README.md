@@ -80,9 +80,6 @@ here\
 
 [![github](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644626/z4ezsbknpycek0m36n9g.png)](https://github.com/nirzaf?tab=repositories) <span style="font-size: 20px;">and</span> [![gitlab](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_100,w_40/v1699644484/gitlab_thchae.png)](https://gitlab.com/users/nirzaf/projects)
 
-# You can share a Coffee with me if you find my repositories are useful for you
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fazrinphccs" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
 #### I am always reachable through 
 [![WhastApp](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699644931/whatsapp_x6icsj.png)](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) &nbsp;&nbsp;&nbsp;&nbsp; [![Mobile](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699646020/telephone-call_ui2kxl.png)](tel:+97433253203) &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,w_40/v1699645889/email_1_orwg5e.png)](mailto:info@dotnetevangelist.net)
 
