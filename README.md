@@ -6,21 +6,26 @@
 
 [![Fazrin's Github Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=default&show_icons=true)](https://github.com/nirzaf)
 
-## Software Engineer (.NET/C#)
+# Senior Full-Stack Software Engineer (.NET/C#)
 
-I am a software engineer with more than 14 years of expertise in .NET and C#. I have a proven track record of developing robust and scalable web and desktop applications for various domains and industries. 
+I am a senior full-stack software engineer with over 14 years of experience in developing high-performance, scalable web, desktop, and cloud-based applications using .NET and C#. My career has been marked by successfully delivering complex solutions across multiple domains, demonstrating leadership in team management, and consistently adopting and mastering the latest technologies.
 
-### Skills and Qualifications
-- Deep understanding of the .NET framework and its powerful features, such as LINQ, Entity Framework, ASP.NET MVC, WPF, Blazor, REST APIs, WebSockets and more.
-- Proficient in C#, with the ability to write clean, efficient, and maintainable code that follows best practices and standards.
-- Experienced in using various tools and technologies, such as Jetbrains Rider, Visual Studio, SQL Server, Git, Azure DevOps, etc.
-- Familiar with agile methodologies, such as Scrum and Kanban, and able to work effectively in a team environment.
-- Excellent communication and problem-solving skills, with a strong attention to detail and quality.
+## Skills and Qualifications
+- **.NET Ecosystem Mastery**: Extensive experience with .NET Core, .NET 5/6/7, and .NET Framework, leveraging technologies like ASP.NET Core, Entity Framework Core, LINQ, SignalR, Blazor, and more to build robust solutions.
+- **Advanced C# Proficiency**: Expertise in writing clean, maintainable, and efficient C# code following SOLID principles, Design Patterns, and best practices.
+- **Frontend and Backend Development**: Proficient in developing modern front-end interfaces using Angular and WPF, and back-end services with ASP.NET Core, REST APIs, and GraphQL.
+- **Cloud Integration and DevOps**: Deep experience with Microsoft Azure, including services like Azure Functions, Logic Apps, Cosmos DB, Azure Service Bus, and setting up CI/CD pipelines using Azure DevOps.
+- **Database Management**: Strong skills in database design and optimization using SQL Server, including performance tuning with Azure Redis Cache and experience with NoSQL databases like Cosmos DB.
+- **Agile Methodologies**: Experienced in agile software development practices, including Scrum and Kanban, ensuring timely delivery of high-quality software.
+- **Team Leadership & Mentoring**: Proven track record of mentoring developers, leading teams, and managing projects from conception through to successful delivery.
 
-### Projects and Achievements
-- Developed a web application for a leading e-commerce company, using ASP.NET MVC, Entity Framework, and Azure. The application handled millions of transactions per day, with high availability and security. Implemented features such as shopping cart, payment gateway, order management, etc.
-
-- Contributed to an open-source projects using C# and .NET Core. 
+## Projects and Achievements
+- **Nar’aakom Mobile Application (Backend Services)**: Spearheaded the migration from REST API to GraphQL, integrating Azure Active Directory and enhancing performance with Azure Redis Cache, and transitioned data storage to a FHIR-compliant database.
+- **Hotel ERP Solution**: Developed key modules for a SaaS-based ERP solution, including the implementation of microservices using Azure Service Bus and RabbitMQ, improving system scalability and reliability.
+- **SmartPABX Cloud-Based Phone System**: Led the modernization of a legacy telecommunications system by upgrading from WinForms to WPF, improving UI responsiveness, and adding dynamic call management features.
+- **Labour Forecasting System for McDonald’s**: Built a web application that dramatically improved labor allocation efficiency, reducing decision-making time from months to minutes, and consistently received perfect client satisfaction scores.
+- **Retail Inventory Management System**: Successfully migrated legacy reporting from Crystal Reports to iTextSharp, significantly enhancing performance and reducing operational costs.
+- **Contributed to many opensource Projects which I found useful for the community 
 
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
