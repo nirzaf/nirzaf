@@ -11,11 +11,11 @@
 I am a senior full-stack software engineer with over 14 years of experience in developing high-performance, scalable web, desktop, and cloud-based applications using .NET and C#. My career has been marked by successfully delivering complex solutions across multiple domains, demonstrating leadership in team management, and consistently adopting and mastering the latest technologies.
 
 ## Skills and Qualifications
-- **.NET Ecosystem Mastery**: Extensive experience with .NET Core, .NET 5/6/7, and .NET Framework, leveraging technologies like ASP.NET Core, Entity Framework Core, LINQ, SignalR, Blazor, and more to build robust solutions.
+- **.NET Ecosystem Mastery**: Extensive experience with .NET Frameowrk till Unified .NET version till now, leveraging technologies like ASP.NET Core, Entity Framework Core, LINQ, SignalR, Blazor, and more to build robust solutions.
 - **Advanced C# Proficiency**: Expertise in writing clean, maintainable, and efficient C# code following SOLID principles, Design Patterns, and best practices.
 - **Frontend and Backend Development**: Proficient in developing modern front-end interfaces using Angular and WPF, and back-end services with ASP.NET Core, REST APIs, and GraphQL.
 - **Cloud Integration and DevOps**: Deep experience with Microsoft Azure, including services like Azure Functions, Logic Apps, Cosmos DB, Azure Service Bus, and setting up CI/CD pipelines using Azure DevOps.
-- **Database Management**: Strong skills in database design and optimization using SQL Server, including performance tuning with Azure Redis Cache and experience with NoSQL databases like Cosmos DB.
+- **Database Management**: Strong skills in database design and optimization using SQL Server, including performance tuning with Azure Redis Cache and experience with NoSQL databases like Cosmos DB and MongoDb.
 - **Agile Methodologies**: Experienced in agile software development practices, including Scrum and Kanban, ensuring timely delivery of high-quality software.
 - **Team Leadership & Mentoring**: Proven track record of mentoring developers, leading teams, and managing projects from conception through to successful delivery.
 
