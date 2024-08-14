@@ -19,14 +19,6 @@ I am a senior full-stack software engineer with over 14 years of experience in d
 - **Agile Methodologies**: Experienced in agile software development practices, including Scrum and Kanban, ensuring timely delivery of high-quality software.
 - **Team Leadership & Mentoring**: Proven track record of mentoring developers, leading teams, and managing projects from conception through to successful delivery.
 
-## Projects and Achievements
-- **Nar’aakom Mobile Application (Backend Services)**: Spearheaded the migration from REST API to GraphQL, integrating Azure Active Directory and enhancing performance with Azure Redis Cache, and transitioned data storage to a FHIR-compliant database.
-- **Hotel ERP Solution**: Developed key modules for a SaaS-based ERP solution, including the implementation of microservices using Azure Service Bus and RabbitMQ, improving system scalability and reliability.
-- **SmartPABX Cloud-Based Phone System**: Led the modernization of a legacy telecommunications system by upgrading from WinForms to WPF, improving UI responsiveness, and adding dynamic call management features.
-- **Labour Forecasting System for McDonald’s**: Built a web application that dramatically improved labor allocation efficiency, reducing decision-making time from months to minutes, and consistently received perfect client satisfaction scores.
-- **Retail Inventory Management System**: Successfully migrated legacy reporting from Crystal Reports to iTextSharp, significantly enhancing performance and reducing operational costs.
-- Contributed to many opensource Projects which I found useful for the community 
-
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
 
