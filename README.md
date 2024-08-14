@@ -25,7 +25,7 @@ I am a senior full-stack software engineer with over 14 years of experience in d
 - **SmartPABX Cloud-Based Phone System**: Led the modernization of a legacy telecommunications system by upgrading from WinForms to WPF, improving UI responsiveness, and adding dynamic call management features.
 - **Labour Forecasting System for McDonald’s**: Built a web application that dramatically improved labor allocation efficiency, reducing decision-making time from months to minutes, and consistently received perfect client satisfaction scores.
 - **Retail Inventory Management System**: Successfully migrated legacy reporting from Crystal Reports to iTextSharp, significantly enhancing performance and reducing operational costs.
-- **Contributed to many opensource Projects which I found useful for the community 
+- Contributed to many opensource Projects which I found useful for the community 
 
 ## 🚧 
 <p><img src="https://readme-typing-svg.herokuapp.com?lines=I+build+using+👇+👇+👇" alt="I build using" /> </p>
