@@ -4,6 +4,10 @@
 
 [![Fazrin's Github Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=default&show_icons=true)](https://github.com/nirzaf)
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/38b63c4514a8a4cd7d1307985af2889c78d67bcc.svg "Repobeats analytics image")
+
 # Senior Full-Stack Software Engineer (.NET/C#)
 
 I am a senior full-stack software engineer with over 14 years of experience in developing high-performance, scalable web, desktop, and cloud-based applications using .NET and C#. My career has been marked by successfully delivering complex solutions across multiple domains, demonstrating leadership in team management, and consistently adopting and mastering the latest technologies.
