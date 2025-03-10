@@ -1,7 +1,8 @@
-# M.F.M Fazrin
+### [M.F.M Fazrin](https://nizraf.github.io)
+#### MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
+<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
-> **Senior Full-Stack Software Engineer (.NET/C#)** | MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
-
+> **Senior Full-Stack Software Engineer (.NET/C#)** 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/nirzaf)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true)](https://github.com/nirzaf)
 
