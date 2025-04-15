@@ -3,9 +3,20 @@
 <p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
 > **Senior Full-Stack Software Engineer (.NET/C#)**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/nirzaf)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true)](https://github.com/nirzaf)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nirzaf">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nirzaf">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 ## 💼 Professional Summary
 
 With **14+ years of experience** developing high-performance, scalable applications using .NET and C#. I deliver complex solutions across multiple domains, lead development teams, and continuously master emerging technologies.
