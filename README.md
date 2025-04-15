@@ -2,7 +2,7 @@
 #### MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
 <p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
-> **Senior Full-Stack Software Engineer (.NET/C#)** 
+> **Senior Full-Stack Software Engineer (.NET/C#)**
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/nirzaf)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true)](https://github.com/nirzaf)
 
@@ -39,7 +39,7 @@ With **14+ years of experience** developing high-performance, scalable applicati
 - **Best Practices**: Implementing SOLID principles, design patterns, and agile methodologies
 
 ## 📫 Connect With Me
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfmfazrin/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9251463/mohamed-farook-mohamed-fazrin)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://mfmfazrin.medium.com/)
