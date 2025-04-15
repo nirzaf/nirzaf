@@ -17,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 ## 💼 Professional Summary
 
 With **14+ years of experience** developing high-performance, scalable applications using .NET and C#. I deliver complex solutions across multiple domains, lead development teams, and continuously master emerging technologies.
