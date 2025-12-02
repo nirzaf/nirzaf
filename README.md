@@ -7,12 +7,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/nirzaf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&theme=dark&show_icons=true&hide_border=true&date=2025" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/nirzaf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true&date=2025" alt="Top Languages" />
       </a>
     </td>
   </tr>
