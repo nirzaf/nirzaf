@@ -3,20 +3,6 @@
 <p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
 
 > **Senior Full-Stack Software Engineer (.NET/C#)**
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nirzaf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&theme=dark&show_icons=true&hide_border=true&date=2025" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nirzaf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true&date=2025" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 💼 Professional Summary
 
