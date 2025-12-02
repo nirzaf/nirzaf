@@ -5,14 +5,14 @@
 > **Senior Full-Stack Software Engineer (.NET/C#)**
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/nirzaf">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirzaf&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzaf&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/nirzaf">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirzaf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
