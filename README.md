@@ -1,40 +1,51 @@
 ### [M.F.M Fazrin](https://nizraf.github.io)
 #### MSc in Software Engineering @ [Kingston University](https://www.kingston.ac.uk/)
-<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer" alt="Senior Full-Stack Software Engineer" /> </p>
+<p> <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Software+Engineer;AI+Solutions+Architect;Agentic+Workflow+Specialist" alt="Senior Full-Stack Software Engineer" /> </p>
 
-> **Senior Full-Stack Software Engineer (.NET/C#)**
+> **Senior Full-Stack Software Engineer | AI Solutions Architect**
 
 ## 💼 Professional Summary
 
-With **14+ years of experience** developing high-performance, scalable applications using .NET and C#. I deliver complex solutions across multiple domains, lead development teams, and continuously master emerging technologies.
+With **16+ years of experience** developing high-performance applications, I now specialize in bridging **Enterprise Software Architecture** with **Agentic AI Workflows**. I architect scalable systems using .NET and Next.js while leveraging **Model Context Protocol (MCP)** servers and **AI-native IDEs** to drive the next generation of software automation.
 
 ## 🔧 Technical Expertise
 
-### Languages & Frameworks
+### 🤖 AI Engineering & Agentic Stack
 
-| **Languages** | **Frameworks** | **Cloud & DevOps** |
-|:-------------:|:--------------:|:------------------:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) |
+| **AI-Native IDEs** | **Models & Tools** | **Agentic Concepts** |
+|:------------------:|:------------------:|:--------------------:|
+| ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) | ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white) | ![MCP Servers](https://img.shields.io/badge/MCP_Servers-0078D4?style=for-the-badge&logo=server&logoColor=white) |
+| ![Windsurf](https://img.shields.io/badge/Windsurf-34E8BB?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) | ![AI Agents](https://img.shields.io/badge/AI_Agents-FF5733?style=for-the-badge&logo=robotframework&logoColor=white) |
+| ![Trae](https://img.shields.io/badge/Trae-32F08C?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![Local LLMs](https://img.shields.io/badge/Local_LLMs-4B5563?style=for-the-badge&logo=ollama&logoColor=white) | ![Automations](https://img.shields.io/badge/AI_Automations-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white) |
 
-### Databases & Tools
+### 💻 Core Tech Stack
 
-| **Databases** | **Development Tools** | **Operating Systems** |
-|:-------------:|:---------------------:|:--------------------:|
-| ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | |
+| **Backend & Enterprise** | **Frontend & Modern Web** | **Cloud & DevOps** |
+|:------------------------:|:-------------------------:|:------------------:|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-## 🚀 Core Skills
+### 🛍️ E-Commerce & Databases
 
-- **Architecture & Development**: Expertise in ASP.NET Core, Entity Framework, LINQ, SignalR, Blazor, and REST APIs
-- **Cloud Solutions**: Deep experience with Azure Functions, Logic Apps, Service Bus, and CI/CD pipelines
-- **Database Management**: Strong skills in database design and optimization (SQL Server, Redis Cache, Cosmos DB)
-- **Leadership**: Proven track record of mentoring developers and leading successful project deliveries
-- **Best Practices**: Implementing SOLID principles, design patterns, and agile methodologies
+| **Platforms** | **Databases** | **Tools** |
+|:-------------:|:-------------:|:---------:|
+| ![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge&logo=medusa&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) |
+| ![Bagisto](https://img.shields.io/badge/Bagisto-003159?style=for-the-badge&logo=bagisto&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
+| ![Saleor](https://img.shields.io/badge/Saleor-000000?style=for-the-badge&logo=saleor&logoColor=white) | ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black) | ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) |
+
+## 🚀 Core Skills & AI Specializations
+
+- **AI Solutions Architect**: Designing **Agentic Workflows** and integrating **Model Context Protocol (MCP)** servers to enable autonomous system interactions.
+- **Next-Gen Development**: Expert user of **Cursor**, **Windsurf**, and **Trae** for AI-assisted coding, utilizing **OpenAI Codex** and **Claude Sonnet** for complex refactoring.
+- **Full-Stack Architecture**: Expertise in ASP.NET Core, Next.js 15+, Entity Framework, and REST/GraphQL APIs.
+- **Cloud & Infrastructure**: Proficient in Azure, Vercel, Railway, and **Cloudflare R2** for distributed storage.
+- **Database Optimization**: Advanced skills in SQL Server, PostgreSQL, and vector database integration for AI context.
+
+## 🏗️ Featured Projects
+
+- **AI Agent Orchestrator**: Custom MCP Server implementation for automating enterprise data retrieval
+- **Enterprise Backend Services**: Microservices architecture using .NET Core and Azure
 
 ## 📫 Connect With Me
 
@@ -42,17 +53,10 @@ With **14+ years of experience** developing high-performance, scalable applicati
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9251463/mohamed-farook-mohamed-fazrin)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://mfmfazrin.medium.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirzaf?tab=repositories)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/nirzaf/projects)
-
-## 📱 Contact Me
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+97433253203&text=Hi,%20I%20contacted%20you%20Through%20your%20website.)
-[![Phone](https://img.shields.io/badge/Call-+974_3325_3203-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+97433253203)
-[![Email](https://img.shields.io/badge/Email-info@dotnetevangelist.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@dotnetevangelist.net)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirzaf&style=flat-square&color=blue" alt="Profile views"/>
-  Copyright © 2024 - [M.F.M Fazrin](https://nirzaf.github.io)
+  <img src="https://komarev.com/ghpvc/?username=nirzaf&style=flat-square&color=blue" alt="Profile views"/>
+  Copyright © 2024 - [M.F.M Fazrin](https://nirzaf.github.io)
 </div>
