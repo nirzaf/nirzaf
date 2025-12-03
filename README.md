@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F5FF,7000FF,00F5FF&height=300&section=header&text=M.F.M%20FAZRIN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤&descSize=30&descAlignY=60" />
 
 <a href="https://nizraf.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=1000&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%E2%9A%A1+SENIOR+FULL-STACK+ARCHITECT+%E2%9A%A1;%F0%9F%A4%96+AI+SOLUTIONS+ENGINEER+%F0%9F%A4%96;%F0%9F%8C%90+AGENTIC+WORKFLOW+SPECIALIST+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=1000&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=%E2%9A%A1+SENIOR+FULL-STACK+ARCHITECT+%E2%9A%A1;%F0%9F%A4%96+AI+SOLUTIONS+ENGINEER+%F0%9F%A4%96;%F0%9F%8C%90+AGENTIC+WORKFLOW+SPECIALIST+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
+
+<br />
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -12,7 +14,6 @@
 ║  📡 STATUS:  BUILDING AI-NATIVE APPLICATIONS WITH MCP PROTOCOL               ║
 ║  ⚡ POWER:   18+ YEARS EXPERIENCE | ∞ INNOVATION                             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
