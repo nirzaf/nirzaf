@@ -12,10 +12,8 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🎯 MISSION: ARCHITECTING THE FUTURE OF AUTONOMOUS SOFTWARE SYSTEMS          ║
 ║  📡 STATUS:  BUILDING AI-NATIVE APPLICATIONS WITH MCP PROTOCOL               ║
-║  ⚡ POWER:   18+ YEARS EXPERIENCE | ∞ INNOVATION                             ║
+║  ⚡ POWER:   18+ YEARS EXPERIENCE | ∞ INNOVATION                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
