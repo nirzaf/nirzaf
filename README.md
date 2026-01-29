@@ -8,12 +8,13 @@
 
 <br />
 
+```bash
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🎯 MISSION: ARCHITECTING THE FUTURE OF AUTONOMOUS SOFTWARE SYSTEMS          ║
 ║  📡 STATUS:  BUILDING AI-NATIVE APPLICATIONS WITH MCP PROTOCOL               ║
 ║  ⚡ POWER:   18+ YEARS EXPERIENCE | ∞ INNOVATION                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-
+```
 
 
 ## 🌌 NEURAL NETWORK PROFILE
